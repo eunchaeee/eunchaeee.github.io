@@ -15,12 +15,21 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
+<<<<<<< HEAD
 locale                   : "ko"
 title                    : "Chaestory"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Chaestory"
 description              : "똘채의 블로그"
+=======
+locale                   : "en-US"
+title                    : "채스토리"
+title_separator          : "-"
+subtitle                 : # site tagline that appears below site title in masthead
+name                     : "Eunchae"
+description              : "An amazing website."
+>>>>>>> 5787c325b8fa05f0bc91a9b72f284eed18ce6134
 url                      : "https://eunchaeee.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "eunchaeee/eunchaeee.github.io"
@@ -109,9 +118,15 @@ analytics:
 author:
   name             : "똘채"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+<<<<<<< HEAD
   bio              : "똘채긍채"
   location         : "Seoul, South Korea"
   email            : "ddolchae513@gmail.com"
+=======
+  bio              : "I am an **amazing** person."
+  location         : "Seoul, South Korea"
+  email            :
+>>>>>>> 5787c325b8fa05f0bc91a9b72f284eed18ce6134
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
