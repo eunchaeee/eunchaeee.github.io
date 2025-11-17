@@ -23,8 +23,9 @@ body {
 
 .slider {
   position: relative;
-  width: 1080px;
-  height: 1350px;
+  width: min(1080px, 90vw);
+  aespect-ratio: 1080 / 1350;
+  height: auto;
   overflow: hidden;
   margin: 100px auto;
   border-radius: 16px; /* optional */
